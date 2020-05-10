@@ -5,6 +5,18 @@
 <item enabled="true">t=白嫖</item>
 <item enabled="true">t=卡</item>
 <item enabled="true">t=█</item>
+<item enabled="true">t=呕</item>
+<item enabled="true">t=时代</item>
+<item enabled="true">t=骗</item>
+<item enabled="true">t=dna</item>
+<item enabled="true">t=精神</item>
+<item enabled="true">t=每天</item>
+<item enabled="true">t=佑</item>
+<item enabled="true">t=保</item>
+<item enabled="true">t=bv</item>
+<item enabled="true">t=av</item>
+<item enabled="true">t=就</item>
+<item enabled="true">t=卧槽</item>
 <item enabled="true">t=承包</item>
 <item enabled="true">t=抱走</item>
 <item enabled="true">t=更新</item>
@@ -50,7 +62,6 @@
 <item enabled="true">t=考古</item>
 <item enabled="true">t=收藏夹</item>
 <item enabled="true">t=许愿</item>
-<item enabled="true">t=保佑</item>
 <item enabled="true">t=还愿</item>
 <item enabled="true">t=114</item>
 <item enabled="true">t=514</item>
@@ -181,7 +192,6 @@
 <item enabled="true">t=很配</item>
 <item enabled="true">t=原地</item>
 <item enabled="true">t=结婚</item>
-<item enabled="true">t=就我</item>
 <item enabled="true">t=屏</item>
 <item enabled="true">t=碎了</item>
 <item enabled="true">t=啊</item>
